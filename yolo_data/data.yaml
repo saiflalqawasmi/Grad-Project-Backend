@@ -1,0 +1,6 @@
+path: c:/Users/hp/OneDrive/سطح المكتب/PROJECT2/PROJECT2/yolo_data
+train: images/train
+val: images/val
+
+names:
+  0: product
